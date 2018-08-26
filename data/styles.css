@@ -7,6 +7,14 @@
   text-align:center;
   line-height:normal;
 }
+.box_1 {
+}
+.box_2 {
+}
+.box_3 {
+}
+.image {
+}
 .heading_1 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -48,6 +56,12 @@
   font-size:10px;
   text-align:left;
 }
+.label {
+  font-size:14px;
+  text-align:left;
+}
 .paragraph {
   text-align:left;
+}
+.line {
 }
